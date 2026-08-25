@@ -27,4 +27,6 @@ Built and physically debugged a custom 4-bit hybrid relay computer with A/B accu
 
     DEMO: 
 
+Relay Computer + Visualization Demo: https://youtube.com/shorts/qc_YNZvkO54?is=frjGqjloafG-7UYr
+ 
 
