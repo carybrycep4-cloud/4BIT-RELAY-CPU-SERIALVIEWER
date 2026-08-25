@@ -25,6 +25,6 @@ Built and physically debugged a custom 4-bit hybrid relay computer with A/B accu
          -Python app that reads the serial stream with 'pyserial' and renders graphics using 'pygame'. 
 
 
-    DEMO: Relay Computer + Visualization Demo: https://youtube.com/shorts/qc_YNZvkO54?is=frjGqjloafG-7UYr
+Relay Computer + Visualization Demo: https://youtube.com/shorts/qc_YNZvkO54?is=frjGqjloafG-7UYr
  
 
