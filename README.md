@@ -1,5 +1,5 @@
 # 4BIT-RELAY-CPU-SERIALVIEWER
-Built and physically debugged a custom 4-bit hybrid relay computer consisting of; a 4-bit ALU of ripple-carry adders, and 2, 4-bit accumulator registers (A/B), as well as a 4-bit sum bus. Implemented Arduino Uno to act as main control unit and program storage, which provided deterministic timing and sequencing as well as non volatile storage for micro operations. Verified correctness via RegA/RegB+0 sweeps, A+B checks, and mod-16 Fibonacci loops. Implemented UART serial output and a Linux Python (pyserial/pygame) viewer for live graphics, including a raycasting-style demo.
+Built and physically debugged a custom 4-bit hybrid relay computer consisting of a 4-bit ripple-carry ALU, A/B registers, and Arduino Uno to act as main control unit and program storage, which provided deterministic timing and sequencing as well as non volatile storage for micro operations. Verified correctness via RegA/RegB+0 sweeps, A+B checks, and mod-16 Fibonacci loops. Implemented UART serial output and a Linux Python (pyserial/pygame) viewer for live graphics, including a raycasting-style demo.
 
  -HARDWARE: 
 
